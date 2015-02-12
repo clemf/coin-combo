@@ -1,11 +1,4 @@
-Coin Combo
-============
-
-This JavaScript web app returns the least amount of US dollar coins
-(i.e., quarter, dime, nickel, penny) required to match the cents value
-inputted by the user.
-
-title-case
+coin-combo
 ============
 
 A JavaScript web app that returns the least amount of US dollar coins
